@@ -2,6 +2,7 @@
 
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![中文](https://img.shields.io/badge/语言-中文-red)](README_CN.md)
+[![Français](https://img.shields.io/badge/Langue-Français-green)](README_FR.md)
 
 A next-generation algorithmic trading framework that leverages graph-based workflow architecture, 
 ensemble technical analysis, and AI language models to make data-driven cryptocurrency trading decisions. 

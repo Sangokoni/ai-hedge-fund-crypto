@@ -2,6 +2,7 @@
 
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![中文](https://img.shields.io/badge/语言-中文-red)](README_CN.md)
+[![Français](https://img.shields.io/badge/Langue-Français-green)](README_FR.md)
 
 一个新一代算法交易框架，利用基于图的工作流架构、集成技术分析和AI语言模型做出数据驱动的加密货币交易决策。
 该系统采用有向无环图(DAG)架构，通过专门的节点进行多时间框架分析，
